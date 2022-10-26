@@ -1,0 +1,98 @@
+.name6{
+    transform: scaleY(-20px);
+}
+.name6:hover{
+    transition:(0.5s);
+    background: turquoise;
+}
+
+.name2{
+    line-height: 30px;
+    margin-top: 90px;
+
+    
+}
+.name3{
+    height:205px;
+}
+.name4{
+     background-image: url(img1/counts-bg.jpg);
+    height: 350px;
+}
+.name5{
+ 
+    color: green ;
+    font-size: 35px;
+}
+#sercices
+{
+    background: azure;
+}
+.name6{
+    background: white;
+}
+#partners .col-3{
+    width: 300px;
+    height: 200px;
+}
+.name7{
+    width: 450px;
+    padding: 20px;
+   justify-content:space-between;
+   
+}
+.name8{
+    width: 320px;
+    padding: 10px;
+    justify-content: space-between;
+}
+.buton{
+    background: aqua;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+.name9{
+    list-style :none ;
+    line-height: 80px;
+    font-weight: bold;
+}
+.name11{
+    background: azure;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.name12{
+    margin-top: 15px;
+    background: azure;
+    
+}
+.name13{
+    margin-left: 70px;
+    display: inline-block;
+    
+}
+
+.name15{
+    width: 300px;
+    padding: 20px;
+}
+.name16{
+    text-align: center;
+    margin: 80px;
+    
+    
+}
+.name17{
+  background-image: url(img1/cta-bg.jpg);
+  width: 100%;
+  height: 500px;
+   margin-top: 40px;
+
+   background-color: brown;
+}
+.all:active{
+  color: blue;
+}
+
